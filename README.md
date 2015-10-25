@@ -7,3 +7,5 @@ Let discover it:)
 Let discover it:)
 
 I dont want to add this line
+
+This line contain error /*from user 1*/
